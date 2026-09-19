@@ -6,7 +6,7 @@ This project is currently in development and is being built as a full-stack web 
 
 ## About the Project
 
-Prime Collectibles is an online store focused on Transformers collectible figures.
+Prime Collectibles is an online store focused on Transformercollectible figures.
 
 The project was created to practice and demonstrate full-stack web development, including frontend development, API integration, database management, and e-commerce functionality.
 
